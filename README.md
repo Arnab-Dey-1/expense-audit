@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository hosts a webpage that provides access to a specific Power BI report. The report is embedded within the webpage and can be viewed directly by visiting the provided link.
+This repository hosts the Expense Audit details and analysis for Huron
 
 ## Power BI Report
 
